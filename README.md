@@ -2,7 +2,7 @@
 
 I'm an Electrical Engineer pursuing a master's degree in the same field. 
 
-Some projects that appeal to me and I'm currently working on include Computer Vision, Machine Learning, Deep Learning and Robotics areas.
+Some projects that appeal to me and I'm currently working on include Computer Vision, Machine Learning, Deep Learning and Robotics.
 
 You can find me here:
 
